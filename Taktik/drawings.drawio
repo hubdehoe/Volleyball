@@ -808,11 +808,14 @@
         <mxCell id="umG-NkVQM77hKirS_8gq-2" parent="umG-NkVQM77hKirS_8gq-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="B0oAZxi9VXYbsPr7X97o-0" parent="pWwn1IziErqR2Yul4sWg-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 1: 3er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="284" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Z2_3" id="dBaJPpqk-c6Jy-nJMOvb">
-    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="NoMRTiRYDXznA-6P32uB-0" />
         <mxCell id="NoMRTiRYDXznA-6P32uB-1" parent="NoMRTiRYDXznA-6P32uB-0" />
@@ -866,6 +869,9 @@
         </mxCell>
         <mxCell id="K0s6jtrmlbjop3z04trH-2" parent="K0s6jtrmlbjop3z04trH-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UQ5SL6-LXccmVEIvfzd4-0" parent="NoMRTiRYDXznA-6P32uB-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 2: 3er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="284" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -926,6 +932,9 @@
         <mxCell id="AbZ3O2SPKi_mDHmk92ck-18" parent="AbZ3O2SPKi_mDHmk92ck-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="qjZqQEO05t6plhTJTSUN-0" parent="AbZ3O2SPKi_mDHmk92ck-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 3: 3er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="284" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -984,6 +993,9 @@
         </mxCell>
         <mxCell id="c1IASiZuXzaxflu3TAHW-18" parent="c1IASiZuXzaxflu3TAHW-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IeFPN7TxvP68udOSuL17-0" parent="c1IASiZuXzaxflu3TAHW-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 4: 3er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="285" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1044,6 +1056,9 @@
         <mxCell id="_sctNYwE4yNJJjbQdt5B-18" parent="_sctNYwE4yNJJjbQdt5B-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="89mbz9NvNeEcCAzfqK_E-0" parent="_sctNYwE4yNJJjbQdt5B-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 5: 3er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="284" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1102,6 +1117,9 @@
         </mxCell>
         <mxCell id="ifJW0s3-YjBRU2aFOLMl-18" parent="ifJW0s3-YjBRU2aFOLMl-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QomM65RyptA6DP48QLYL-0" parent="ifJW0s3-YjBRU2aFOLMl-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 6: 3er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="284" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1162,6 +1180,9 @@
         <mxCell id="24AWY-moo9LvbFygXP2l-2" parent="24AWY-moo9LvbFygXP2l-0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="37lpy46A_lT8c7qgceJ5-0" parent="kLNPkKp1G_x1Frh58_ig-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 1: 4er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="285" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1220,6 +1241,9 @@
         </mxCell>
         <mxCell id="mA_d3o5WjDA1fzmNjx_P-18" parent="mA_d3o5WjDA1fzmNjx_P-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pRQk--vhUCxfNJW2ic6e-0" parent="mA_d3o5WjDA1fzmNjx_P-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 2: 4er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="285" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1280,6 +1304,9 @@
         <mxCell id="uBbB8ks3m6pdKXqD_Blk-18" parent="uBbB8ks3m6pdKXqD_Blk-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="sWdvR9dtaCTwmCv-rbzp-0" parent="uBbB8ks3m6pdKXqD_Blk-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 3: 4er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="285" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1339,11 +1366,14 @@
         <mxCell id="pauoWmfBzZRZWk9sCSYU-18" parent="pauoWmfBzZRZWk9sCSYU-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="HWDoncTc8iGXYipKthlb-0" parent="pauoWmfBzZRZWk9sCSYU-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 4: 4er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="285" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Z5_4" id="6eyidSqBQ59v_jd5eois">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="L0PHbDaLIaYgtI8UfkMv-0" />
         <mxCell id="L0PHbDaLIaYgtI8UfkMv-1" parent="L0PHbDaLIaYgtI8UfkMv-0" />
@@ -1398,11 +1428,14 @@
         <mxCell id="L0PHbDaLIaYgtI8UfkMv-18" parent="L0PHbDaLIaYgtI8UfkMv-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
         </mxCell>
+        <mxCell id="1xCX9WT463F1SeJGbFmF-0" parent="L0PHbDaLIaYgtI8UfkMv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 5: 4er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="286" y="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Z6_4" id="S4g7vrmaQOZPh6ZvIgY2">
-    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" backgroundImage="{&quot;src&quot;:&quot;data:page/id,xtW3obPnz4EJOxUqxcPU&quot;}" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="NDqkWES23NzkfNj-1Arn-0" />
         <mxCell id="NDqkWES23NzkfNj-1Arn-1" parent="NDqkWES23NzkfNj-1Arn-0" />
@@ -1456,6 +1489,9 @@
         </mxCell>
         <mxCell id="NDqkWES23NzkfNj-1Arn-18" parent="NDqkWES23NzkfNj-1Arn-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;M&lt;/font&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="50" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QqVoP1h5nXJL9A3HNa3w-0" parent="NDqkWES23NzkfNj-1Arn-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;Zuspiel 6: 4er Annahme&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="550" x="285" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
