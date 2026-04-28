@@ -132,6 +132,18 @@
             <mxPoint x="390" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nJXKgmS39IosBMoNfrNC-0" edge="1" parent="S0gKRA0JNqdS1VK9NGRO-1" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="800" as="sourcePoint" />
+            <mxPoint x="200" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJXKgmS39IosBMoNfrNC-1" edge="1" parent="S0gKRA0JNqdS1VK9NGRO-1" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="920" y="800" as="sourcePoint" />
+            <mxPoint x="1060" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -400,7 +412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5I1RIs86ZdDV_s1gSUeE" name="Basisaufstellung">
-    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,7 +474,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Grundaufstellung Feldverteidigung" id="ZJuosQiJ7QfIlwF5j4aF">
-    <mxGraphModel dx="1722" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="98WGSQc7bFyQZ6qemNSN-0" />
         <mxCell id="98WGSQc7bFyQZ6qemNSN-1" parent="98WGSQc7bFyQZ6qemNSN-0" />
@@ -506,7 +518,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Grundaufstellung Feldverteidigung Zuspiel hinten" id="eHVHGvasj4UQbAx9tOb0">
-    <mxGraphModel dx="2066" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;data:page/id,9u1AsdWPcTVyaX0Uxc4e&quot;}" math="0" shadow="0">
       <root>
         <mxCell id="RmaUtA-d96OyJUvWVmef-0" />
         <mxCell id="RmaUtA-d96OyJUvWVmef-1" parent="RmaUtA-d96OyJUvWVmef-0" />
