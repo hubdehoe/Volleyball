@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:149.0) Gecko/20100101 Firefox/149.0" pages="7">
   <diagram name="Halbfeld" id="9u1AsdWPcTVyaX0Uxc4e">
     <mxGraphModel dx="2054" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -616,6 +616,142 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gxtIa3Ueq93fuy_2tnuQ-1" edge="1" parent="GEsqpanB3OyvxfQhyPBQ-1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="520" y="800" as="sourcePoint" />
+            <mxPoint x="390" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Kopie von Angriffskreuz" id="CJpby-xzdTcb6Ge-XjtV">
+    <mxGraphModel dx="2911" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,q2k5MhlM8sGjSH_yxb4n&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-0" />
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-1" parent="ib7h8lX3ivHrGwlihiNV-0" />
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-2" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;A&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-3" connectable="0" parent="ib7h8lX3ivHrGwlihiNV-1" style="group" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="70" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-4" parent="ib7h8lX3ivHrGwlihiNV-3" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-5" parent="ib7h8lX3ivHrGwlihiNV-3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Sports_Outline_24_px-2187/Ball_basketball_sports_game_play-504.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-6" parent="ib7h8lX3ivHrGwlihiNV-3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Sports_Outline_24_px-2187/Ball_basketball_sports_game_play-504.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="10" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-7" parent="ib7h8lX3ivHrGwlihiNV-3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Sports_Outline_24_px-2187/Ball_basketball_sports_game_play-504.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-8" parent="ib7h8lX3ivHrGwlihiNV-3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Sports_Outline_24_px-2187/Ball_basketball_sports_game_play-504.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="50" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-9" parent="ib7h8lX3ivHrGwlihiNV-3" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Sports_Outline_24_px-2187/Ball_basketball_sports_game_play-504.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="28" y="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-10" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;B&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="545" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-11" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;C&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="290" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-12" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;D&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="790" y="247" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-13" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;E&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="86" width="86" x="815" y="677" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-14" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="530" y="740" as="sourcePoint" />
+            <mxPoint x="390" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-15" parent="ib7h8lX3ivHrGwlihiNV-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Sports_Outline_24_px-2187/Ball_basketball_sports_game_play-504.svg" value="" vertex="1">
+          <mxGeometry height="24" width="24" x="340" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-16" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="420" />
+              <mxPoint x="720" y="650" />
+            </Array>
+            <mxPoint x="810" y="335" as="sourcePoint" />
+            <mxPoint x="660" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-17" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="790" />
+            </Array>
+            <mxPoint x="650" y="790" as="sourcePoint" />
+            <mxPoint x="840" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-18" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="327" as="sourcePoint" />
+            <mxPoint x="550" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-19" parent="ib7h8lX3ivHrGwlihiNV-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Aufbau&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Alle Positionen außer 6 in einem Halbfeld besetzt&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Ballwagen hinten mittig&amp;nbsp;außerhalb des Feldes&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Bei mehr als 12 Spielerinnen Aufbau auf beiden Feldhälften möglich&lt;/font&gt;&lt;/div&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Ablauf&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;A spielt (Anwurf oder oberes Zuspiel) auf B. B oberes Zuspiel auf C. C greift auf D an. D wehrt wieder auf B ab. B oberes Zuspiel auf E. E greift auf A an und der Ablauf beginnt von vorn.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Jede Spielerin läuft ihrem Ball nach.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Wartepositionen&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Keine zusätzlichen Wartepositionen&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Varianten&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Beginnen ohne Angriffe (nur gepritschte Bälle) aus dem Vorderfeld ins Hinterfeld.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Ball wird ins Hinterfeld gelobbt&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Zusatzaufgaben&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Laufleitern hinter die Gundlinie&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1440" width="960" x="1280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-20" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="500" />
+            </Array>
+            <mxPoint x="850" y="660" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-21" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;A&#39;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-22" parent="ib7h8lX3ivHrGwlihiNV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;D&#39;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="790" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-23" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="660" as="sourcePoint" />
+            <mxPoint x="770" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-24" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="327" as="sourcePoint" />
+            <mxPoint x="640" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-25" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="740" as="sourcePoint" />
+            <mxPoint x="810" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-26" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="660" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-27" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="550" />
+            </Array>
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="520" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ib7h8lX3ivHrGwlihiNV-28" edge="1" parent="ib7h8lX3ivHrGwlihiNV-1" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=5;dashed=1;dashPattern=8 8;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points" />
             <mxPoint x="520" y="800" as="sourcePoint" />
